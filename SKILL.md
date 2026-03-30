@@ -260,7 +260,7 @@ Skip this section for purely online businesses with no physical presence.
 - 4 = Good, minor improvements possible
 - 5 = Excellent, best-practice implementation
 
-**Weighted total = sum of (score x weight). Max = 5.0**
+**Compute the weighted score: sum of (score x weight). Max = 5.0**
 
 | Range | Rating | Action |
 |-------|--------|--------|
@@ -282,6 +282,10 @@ Skip this section for purely online businesses with no physical presence.
 | **International** | 10% | hreflang, localization, canonical coordination | |
 | **Accessibility** | 10% | Site-wide a11y patterns, landmark roles, alt text | |
 | **Off-Page** | 5% | Backlink quality, brand mentions, citations | |
+
+**Compute both weighted scores, then the combined SEO Rank Score: (SEARCH score + TECH score) / 2**
+
+**Always present the final score prominently at the top of every audit report. This is mandatory.**
 
 ---
 
@@ -584,8 +588,17 @@ After page-level work, assess site-wide:
 **Date:** [date]
 **Audited by:** Claude Code (seo-rank skill)
 
+### Score
+
+**You MUST compute and present this score. It is not optional.**
+
+```
+SEO RANK SCORE: X.X / 5.0 (Rating)
+├── SEARCH Score: X.X / 5.0 (Content SEO)
+└── TECH Score:   X.X / 5.0 (Technical SEO)
+```
+
 ### Executive Summary
-- Overall Score: X.X / 5.0 ([rating band])
 - Critical issues: [count]
 - Quick wins available: [count]
 - Estimated impact: [high/medium/low]
