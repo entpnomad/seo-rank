@@ -1,6 +1,6 @@
 # SEO Rank
 
-🌐 [English](README.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md)
+🌐 [English](README.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Deutsch](README.de.md)
 
 A Claude Code skill for comprehensive SEO auditing and optimization to 2026 standards. Covers content quality, technical performance, site architecture, crawlability, and off-page signals.
 
