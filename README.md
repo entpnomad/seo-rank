@@ -5,8 +5,8 @@
 A Claude Code skill for comprehensive SEO auditing and optimization to 2026 standards. Covers content quality, technical performance, site architecture, crawlability, and off-page signals.
 
 Two frameworks, full coverage:
-- **SEARCH Framework** (Content SEO) — Intent, E-E-A-T, quality, keywords, CTR, structure
-- **TECH Framework** (Technical SEO) — Core Web Vitals, crawling, rendering, security, architecture, i18n, accessibility, structured data, local SEO
+- **SEARCH Framework** (Content SEO): Intent, E-E-A-T, quality, keywords, CTR, structure
+- **TECH Framework** (Technical SEO): Core Web Vitals, crawling, rendering, security, architecture, i18n, accessibility, structured data, local SEO
 
 ## What It Does
 
